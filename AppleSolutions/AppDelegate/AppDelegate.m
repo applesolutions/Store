@@ -17,6 +17,7 @@
 #import "MobilePayManager.h"
 
 #import "APSBagManager.h"
+#import <BuddyBuildSDK/BuddyBuildSDK.h>
 
 @import GoogleMaps;
 
@@ -30,6 +31,8 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    [BuddyBuildSDK setup];
+    
     // Override point for customization after application launch.
     
     IQKeyboardManager *sharedInstance = [IQKeyboardManager sharedManager];

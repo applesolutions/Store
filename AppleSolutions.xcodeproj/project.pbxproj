@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		17D755382D8BA1CF7CA1158E /* libPods-AppleSolutions.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 686A159F69ACDD64658E1AEC /* libPods-AppleSolutions.a */; };
+		2F091BEEFFC1BD0B215C4450 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D53E14650846C5F846F877EA /* CoreVideo.framework */; };
+		43B5F913A9487135959C019D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59BA7BBD1A1E3480A7E21C83 /* QuartzCore.framework */; };
+		5EFF7906D1168F7AB44E983A /* BuddyBuildSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7AB506836407210EC7BE29D8 /* BuddyBuildSDK.framework */; };
+		6BCF38937AEB7F2BDCB52518 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60978412511847733D33F949 /* CoreTelephony.framework */; };
 		830B42F61BFAB207003A2495 /* ShopProductPreview.xib in Resources */ = {isa = PBXBuildFile; fileRef = 830B42F51BFAB207003A2495 /* ShopProductPreview.xib */; };
 		830B42F91BFABA5D003A2495 /* APSShopProductPreviewView.m in Sources */ = {isa = PBXBuildFile; fileRef = 830B42F81BFABA5D003A2495 /* APSShopProductPreviewView.m */; };
 		830B42FC1BFAD5BC003A2495 /* APSProductDetailsVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 830B42FB1BFAD5BC003A2495 /* APSProductDetailsVC.m */; };
@@ -62,6 +66,7 @@
 		83D9AA981C0806C100BE9877 /* APSBeaconNotificationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 83D9AA971C0806C100BE9877 /* APSBeaconNotificationManager.m */; };
 		83D9AA9B1C0E3A5400BE9877 /* AppleSolutions Store.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 83D9AA9A1C0E3A5400BE9877 /* AppleSolutions Store.gpx */; };
 		83D9AA9D1C0E6CD500BE9877 /* Bag.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83D9AA9C1C0E6CD500BE9877 /* Bag.storyboard */; };
+		8D86AEE6A6AFF506C43A8E73 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9DFFFF2F78D6D3C19EA4C7F /* CoreText.framework */; };
 		AF096A141D0CE17000912BC6 /* APSAccountManagerTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = AF096A131D0CE17000912BC6 /* APSAccountManagerTVC.m */; };
 		AF147B9A1D6E337F0071AFD3 /* APSCheckBoxTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = AF147B991D6E337F0071AFD3 /* APSCheckBoxTVC.m */; };
 		AF17E26F1DAE6C50008F3EAC /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF17E26E1DAE6C50008F3EAC /* MobileCoreServices.framework */; };
@@ -118,6 +123,9 @@
 		BA2F3C141D080DFA0074C973 /* APSChatLoginVC.m in Sources */ = {isa = PBXBuildFile; fileRef = BA2F3C131D080DFA0074C973 /* APSChatLoginVC.m */; };
 		BEACE71802EE883F131279EC /* libPods-AppleSolutionsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 056F6413CF39BFED4D461852 /* libPods-AppleSolutionsTests.a */; };
 		C0A54434E2083B5FCFC3CC00 /* libPods-AppleSolutionsUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BC9E8EB3141E4A70E2BD3CF /* libPods-AppleSolutionsUITests.a */; };
+		D487F9C833790E6E6C48F4DE /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9776F9F3CE22BCBA1DDECC45 /* AssetsLibrary.framework */; };
+		D9E14871A9F968705ABA45DD /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18525C6700556CBDE51541DD /* CoreMedia.framework */; };
+		F285EEB37C25243013B77221 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 658DF882AA625F8F66D780A3 /* AVFoundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -170,9 +178,14 @@
 
 /* Begin PBXFileReference section */
 		056F6413CF39BFED4D461852 /* libPods-AppleSolutionsTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AppleSolutionsTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18525C6700556CBDE51541DD /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
 		4BC9E8EB3141E4A70E2BD3CF /* libPods-AppleSolutionsUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AppleSolutionsUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59BA7BBD1A1E3480A7E21C83 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		60978412511847733D33F949 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
 		64CCE64320D4D9AC255CC06E /* Pods-AppleSolutions.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppleSolutions.release.xcconfig"; path = "Pods/Target Support Files/Pods-AppleSolutions/Pods-AppleSolutions.release.xcconfig"; sourceTree = "<group>"; };
+		658DF882AA625F8F66D780A3 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		686A159F69ACDD64658E1AEC /* libPods-AppleSolutions.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AppleSolutions.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7AB506836407210EC7BE29D8 /* BuddyBuildSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = BuddyBuildSDK.framework; sourceTree = "<group>"; };
 		7F331757D856D3C28DC6CF79 /* Pods-AppleSolutionsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppleSolutionsTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AppleSolutionsTests/Pods-AppleSolutionsTests.debug.xcconfig"; sourceTree = "<group>"; };
 		8040E5E24A4C56C1FC60CD71 /* Pods-AppleSolutionsUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppleSolutionsUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AppleSolutionsUITests/Pods-AppleSolutionsUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		8303C7581C31EABC001FC548 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Main.strings; sourceTree = "<group>"; };
@@ -284,6 +297,7 @@
 		83D9AA971C0806C100BE9877 /* APSBeaconNotificationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = APSBeaconNotificationManager.m; path = "Library/iBeacon+Estimote/APSBeaconNotificationManager.m"; sourceTree = "<group>"; };
 		83D9AA9A1C0E3A5400BE9877 /* AppleSolutions Store.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = "AppleSolutions Store.gpx"; path = "Data/AppleSolutions Store.gpx"; sourceTree = "<group>"; };
 		83D9AA9C1C0E6CD500BE9877 /* Bag.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Bag.storyboard; path = View/Bag.storyboard; sourceTree = "<group>"; };
+		9776F9F3CE22BCBA1DDECC45 /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
 		AF096A121D0CE17000912BC6 /* APSAccountManagerTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = APSAccountManagerTVC.h; path = Controller/Account/TableViewCell/APSAccountManagerTVC.h; sourceTree = "<group>"; };
 		AF096A131D0CE17000912BC6 /* APSAccountManagerTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = APSAccountManagerTVC.m; path = Controller/Account/TableViewCell/APSAccountManagerTVC.m; sourceTree = "<group>"; };
 		AF147B981D6E337F0071AFD3 /* APSCheckBoxTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = APSCheckBoxTVC.h; path = Controller/Bag/TableViewCell/APSCheckBoxTVC.h; sourceTree = "<group>"; };
@@ -377,6 +391,8 @@
 		BA2F3C131D080DFA0074C973 /* APSChatLoginVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = APSChatLoginVC.m; path = Controller/Account/APSChatLoginVC.m; sourceTree = "<group>"; };
 		BD9DBC14447E94332C303769 /* Pods-AppleSolutions.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppleSolutions.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AppleSolutions/Pods-AppleSolutions.debug.xcconfig"; sourceTree = "<group>"; };
 		C6F98F85C76C704EB14438FE /* Pods-AppleSolutionsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppleSolutionsUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AppleSolutionsUITests/Pods-AppleSolutionsUITests.release.xcconfig"; sourceTree = "<group>"; };
+		C9DFFFF2F78D6D3C19EA4C7F /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		D53E14650846C5F846F877EA /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
 		E12C8E51E5C49C5117D183ED /* Pods-AppleSolutionsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppleSolutionsTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AppleSolutionsTests/Pods-AppleSolutionsTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -392,6 +408,14 @@
 				17D755382D8BA1CF7CA1158E /* libPods-AppleSolutions.a in Frameworks */,
 				AF1893191D6F9C1E00DC4981 /* MapKit.framework in Frameworks */,
 				BA2DDB2F1CF73A85003C16DC /* OneSignal.framework in Frameworks */,
+				5EFF7906D1168F7AB44E983A /* BuddyBuildSDK.framework in Frameworks */,
+				D487F9C833790E6E6C48F4DE /* AssetsLibrary.framework in Frameworks */,
+				8D86AEE6A6AFF506C43A8E73 /* CoreText.framework in Frameworks */,
+				6BCF38937AEB7F2BDCB52518 /* CoreTelephony.framework in Frameworks */,
+				43B5F913A9487135959C019D /* QuartzCore.framework in Frameworks */,
+				F285EEB37C25243013B77221 /* AVFoundation.framework in Frameworks */,
+				D9E14871A9F968705ABA45DD /* CoreMedia.framework in Frameworks */,
+				2F091BEEFFC1BD0B215C4450 /* CoreVideo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -408,6 +432,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				C0A54434E2083B5FCFC3CC00 /* libPods-AppleSolutionsUITests.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD413ADBD25D8B1BA0C20673 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -861,6 +892,14 @@
 				686A159F69ACDD64658E1AEC /* libPods-AppleSolutions.a */,
 				056F6413CF39BFED4D461852 /* libPods-AppleSolutionsTests.a */,
 				4BC9E8EB3141E4A70E2BD3CF /* libPods-AppleSolutionsUITests.a */,
+				7AB506836407210EC7BE29D8 /* BuddyBuildSDK.framework */,
+				9776F9F3CE22BCBA1DDECC45 /* AssetsLibrary.framework */,
+				C9DFFFF2F78D6D3C19EA4C7F /* CoreText.framework */,
+				60978412511847733D33F949 /* CoreTelephony.framework */,
+				59BA7BBD1A1E3480A7E21C83 /* QuartzCore.framework */,
+				658DF882AA625F8F66D780A3 /* AVFoundation.framework */,
+				18525C6700556CBDE51541DD /* CoreMedia.framework */,
+				D53E14650846C5F846F877EA /* CoreVideo.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -994,6 +1033,7 @@
 			buildPhases = (
 				AFA91DAB1D00653A002B3844 /* Resources */,
 				AFA91DD41D00653B002B3844 /* Embed App Extensions */,
+				AD413ADBD25D8B1BA0C20673 /* Frameworks */,
 			);
 			buildRules = (
 			);
