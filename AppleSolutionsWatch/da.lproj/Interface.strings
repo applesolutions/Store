@@ -1,0 +1,48 @@
+
+/* Class = "WKInterfaceLabel"; text = "11:00 AM - 5:00 PM"; ObjectID = "3ds-8r-IxA"; */
+"3ds-8r-IxA.text" = "11:00 AM - 5:00 PM";
+
+/* Class = "WKInterfaceLabel"; text = "11:00 AM - 5 PM Mon - Thur"; ObjectID = "5I7-ws-gtb"; */
+"5I7-ws-gtb.text" = "11:30 AM - 5 PM Mon - Thur";
+
+/* Class = "WKInterfaceLabel"; text = "Åboulevard 60, 2200 Kabenhavn"; ObjectID = "D55-XB-6oO"; */
+"D55-XB-6oO.text" = "Åboulevard 60, 2200 Kabenhavn";
+
+/* Class = "WKInterfaceLabel"; text = "Phone Number"; ObjectID = "GlT-yi-p7Z"; */
+"GlT-yi-p7Z.text" = "Phone Number";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "IdU-wH-bcW"; */
+"IdU-wH-bcW.text" = "Alert Label";
+
+/* Class = "WKInterfaceLabel"; text = "Map"; ObjectID = "Jw2-Y0-g7w"; */
+"Jw2-Y0-g7w.text" = "Map";
+
+/* Class = "WKInterfaceLabel"; text = "+45 89 88 50 52"; ObjectID = "PNP-lW-hXN"; */
+"PNP-lW-hXN.text" = "+45 89 88 50 52";
+
+/* Class = "WKInterfaceLabel"; text = "Opening hours"; ObjectID = "RE8-EN-v0F"; */
+"RE8-EN-v0F.text" = "Opening hours";
+
+/* Class = "WKInterfaceController"; title = "Apple Solutions"; ObjectID = "aJt-Fd-1NN"; */
+"aJt-Fd-1NN.title" = "Apple Solutions";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "bUP-qW-1T8"; */
+"bUP-qW-1T8.text" = "Label";
+
+/* Class = "WKInterfaceController"; title = "Workshops & Events"; ObjectID = "gIt-7G-H3R"; */
+"gIt-7G-H3R.title" = "Workshops & Events";
+
+/* Class = "WKInterfaceLabel"; text = "+Aboulevard 60, 2200 Kabenhavn"; ObjectID = "ize-D0-Js8"; */
+"ize-D0-Js8.text" = "+Aboulevard 60, 2200 Kabenhavn";
+
+/* Class = "WKInterfaceLabel"; text = "11:00 AM - 5 PM Friday"; ObjectID = "mIU-Wd-o6V"; */
+"mIU-Wd-o6V.text" = "11:00 AM - 5 PM Friday";
+
+/* Class = "WKInterfaceController"; title = "Nearest Store"; ObjectID = "pGx-Ib-6d8"; */
+"pGx-Ib-6d8.title" = "Nearest Store";
+
+/* Class = "WKInterfaceLabel"; text = "12:00 PM - 4:00PM Sat (Odd weeks)"; ObjectID = "wCF-U1-rOc"; */
+"wCF-U1-rOc.text" = "12:00 PM - 4:00PM Sat (Odd weeks)";
+
+/* Class = "WKInterfaceLabel"; text = "Event Title"; ObjectID = "zmB-hS-Rpu"; */
+"zmB-hS-Rpu.text" = "Event Title";

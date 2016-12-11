@@ -1,0 +1,166 @@
+/* 
+  Localizable.strings
+  AppleSolutions
+
+  Created by Chris Lin on 12/16/15.
+  Copyright © 2015 AppleSolutions. All rights reserved.
+*/
+
+"Shop" = "Køb";
+"Store" = "Butikker";
+"Featured" = "Favorit";
+"Account" = "Min Konto";
+"Confirmation" = "Bekræft valg";
+"Please click YES to call %@" = "Klik på “Ja” for at ringe til kundeservice %@";
+"Phone call is not available on your device." = "Telefonopkald er ikke tilgængelige på din enhed.";
+"No" = "Nej";
+"Yes" = "Ja";
+"Buy Now" = "KØB NU";
+"Done" = "BETALING";
+"Find nearest store" = "Find nærmeste butik";
+"Workshops and Events" = "Workshop & Events ";
+"One to One" = "One to One";
+"Sorry! This product is not registered." = "Beklager! Dette produkt er ikke registeret.";
+"My Account" = "Min Konto";
+"Please enter your email address" = "Indtast venligst din email";
+/*** BagVC ***/
+"Edit" = "Ret";
+"Delete" = "Slet";
+"Warning!" = "Advarsel!";
+"Are you sure you want to delete this item?" = "Er du sikker på at, du vil slette dette produkt?";
+"Cancel" = "Annuller";
+"Please add item to cart before checkout." = "Tilføj venligst noget i kurven før udtjekning!";
+"Failed to request checkout. Please try again!" = "Der skete en fejl, prøv venligst igen!";
+"Please wait..." = "Vent venligst...";
+"Sorry, we have encountered an error while processing your request. \n%@" = "Svi beklager meget, men der skete en fejl ved forsøg på at behandle din. \n%@";
+
+"Shipping" = "1 - 10 dage";
+"No shipping" = "Leveres digital";
+"In stock" = "På lager";
+"Account" = "Min konto";
+
+// MobilePayInfo
+"Email" = "E-mail";
+"Enter your email" = "Indtast din e-mail";
+"Phone No" = "Mobil Nr.";
+"Enter your Phone No" = "Indtast dit mobil nummer";
+"Company Name" = "Firmanavn";
+"Enter your company" =  "Indtast firmanavn";
+"First Name" = "Fornavn";
+
+"Last Name" = "Efternavn";
+"City" = "By";
+
+"Address" = "Adresse";
+"Country"= "Land";
+"Next" = "Næste";
+"TAXES" = "MOMS";
+"ZIP" = "Post Nr";
+
+"MobilePay Info" = "MobilePay betaling";
+
+"Private" = "Privat";
+"Business" = "Erhverv";
+"Please Select" = "Vælg venligst";
+
+"Shipping address is same as Billing Address" = "Leverings adresse er samme som faktura adresse";
+"Shipping Address" = "Leverings adresse";
+"Billing Address" = "Faktureres til";
+
+"Shipping Rates" = "Forsendelses metode";
+"SUBTOTAL" = "SUBTOTAL";
+"SHIPPING" = "Forsendelse 1 - 10 dage";
+"Add Discount" = "Tilføj rabat";
+"Enter Discount Code" = "Indtast rabatkode";
+"OK" = "OK";
+"Cancel"  = "Annuller";
+"DISCOUNT" = "Rabat";
+"TOTAL" = "At betale";
+"Apply Gift Card" = "Anvend gavekort";
+"Enter Gift Card Code" = "indtast gavekort her";
+"GIFT CARD" = "Gavekort";
+"Gift Cards" = "Gavekort";
+"Total" = "At betale";
+
+"Order Summary" = "Ordre oversigt";
+"Discount Code" = "Rabat kode";
+"Enter Gift Card" = "Indtast gavekort her";
+"Pay Now" = "Gå til betaling";
+"PAYMENT" = "BETALING";
+"Delivery time" = "Leveringstid";
+"Delivery Time:" = "Leveringstid";
+"Bag subtotal" = "Shoppingpose subtotal";
+
+"Configuration" = "Specifikationer";
+"Apple Gift Package $5" = "Gaveindpakning 25 kr";
+"Cancel" = "Tilbage";
+"Save" = "Gem";
+"Gift Message Free" = "Gave besked";
+
+"Checkout" = "Oversigt";
+"PAY NOW" = "Betaling";
+"Hide Product Details" = "Skjul Specifikationer";
+"Show Product Details" = "Vis Specifikationer";
+"Configuration" = "Specifikationer";
+"Configuration:" = "Specifikationer";
+"Delivery" = "Leveringstid";
+"1 - 10 Days" = "1 - 10 dage";
+"User Type" = "Bruger";
+"Shipping Rate" = "Leveringstype";
+"Choose shipping rate" = "Vælg leveringsmetode";
+ "Add a gift card" = "Indtast gavekort her";
+"Payment" = "Betaling";
+"Enter payment" = "Vælg betaling";
+"Summary" = "Oversigt";
+"Private or Business" = "Vælg privat - erhverv";
+"Shipping" = "1 - 10 dage";
+"Taxes" = "Moms";
+"Enter address" = "Indtast adresse";
+"Help" = "Hjælp?";
+"Call Us" = "Ring til os";
+"Apple Solutions" = "AppleSolutions";
+"Required" = "Påkrævet";
+"Hide Product Details" = "Skjul specifikationer";
+"Gift Card(s) Applied"  = "Anvendt fra gavekort";
+
+"Order Total" = "Ordre totalt";
+"Required" = "Påkrævet";
+"DONE" = "Anvend";
+"SAVE" = "Gem";
+"Payment Method" = "Betalings metode";
+
+"Invoice" = "Faktura betaling";
+"MobilePay" = "MobilePay";
+"In Store" = "Betal i butikken";
+"Credit Card" = "Kortbetalng";
+"Your order has been placed successfully. You order number is" = "Din ordre er nu gået igennem. Dit faktura nummer er:";
+
+"You have now paid for order with id" = "MobilePay Lykkedes. Du har nu betalt faktura ";
+" Your MobilePay transaction id is" = "Din kvittering hos MobilePay er ";
+
+"Please choose shipping rates first" = "Vælg venligst levering";
+"Please enter address first" = "Vælg venligst leverings adresse";
+
+"Please choose a User Type" =  "Vælg venligst bruger";
+"Please enter a Shipping Address" = "Indtast venligst leverings adresse";
+"Please choose a Shipping Method"=  "Vælg venligst levering";
+"Please choose a Payment Method" = "Vælg venligst betalings metode";
+"You cancelled the payment" = "Du annullerede betalingen";
+"Payment Cancelled" = "Betaling afvist";
+
+"MobilePay Succeeded" = "MobilePay Godkendt";
+
+
+"Add" = "Tilføj";
+"Copy URL" = "Kopier link";
+"Delivered" = "Leveret";
+"In Transit" = "I transit";
+"Info Received" = "Pakket";
+"Pending" = "Afventer";
+"Out For Delivery" = "Ude for levering";
+"Attempt Fail" = "Forsøgt leveret";
+"Exception" = "Undtagelse";
+"Expired" = "Udløbet";
+"Enter order number" = "Indtast faktura nr.";
+"Latest Status" = "Seneste update";
+"Shipment Type" = "Forsendelses metode";

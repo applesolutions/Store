@@ -1,0 +1,81 @@
+
+/* Class = "UITabBarItem"; title = "Shop"; ObjectID = "0bi-QR-XH4"; */
+"0bi-QR-XH4.title" = "Shop";
+
+/* Class = "UINavigationItem"; title = "Featured"; ObjectID = "1Gs-lr-C9L"; */
+"1Gs-lr-C9L.title" = "Featured";
+
+/* Class = "UIBarButtonItem"; title = "Betaling"; ObjectID = "1ly-Kr-Usg"; */
+"1ly-Kr-Usg.title" = "Done";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "1ry-Vt-9ku"; */
+"1ry-Vt-9ku.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITextField"; placeholder = "Qty"; ObjectID = "97y-DQ-ool"; */
+"97y-DQ-ool.placeholder" = "Qty";
+
+/* Class = "UINavigationItem"; title = "Konto"; ObjectID = "9lm-Kc-fyK"; */
+"9lm-Kc-fyK.title" = "Account";
+
+/* Class = "UILabel"; text = "Apple Watch"; ObjectID = "BXS-wo-v0e"; */
+"BXS-wo-v0e.text" = "Apple Watch";
+
+/* Class = "UILabel"; text = "12 Inch MacBook 512 GB"; ObjectID = "Bup-3l-4TW"; */
+"Bup-3l-4TW.text" = "12 Inch MacBook 512 GB";
+
+/* Class = "UINavigationItem"; title = "Butikker"; ObjectID = "CGa-vI-KT8"; */
+"CGa-vI-KT8.title" = "Shop";
+
+/* Class = "UITabBarItem"; title = "Kurv"; ObjectID = "FRS-gm-UDa"; */
+"FRS-gm-UDa.title" = "Bag";
+
+/* Class = "UITabBarItem"; title = "Konto"; ObjectID = "FVY-29-GRC"; */
+"FVY-29-GRC.title" = "Account";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "HDy-3T-DDD"; */
+"HDy-3T-DDD.text" = "---";
+
+/* Class = "UITabBarItem"; title = "Butikker"; ObjectID = "IGV-3o-pct"; */
+"IGV-3o-pct.title" = "Shop";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "MXB-6O-29p"; */
+"MXB-6O-29p.normalTitle" = "Clear";
+
+/* Class = "UITabBarItem"; title = "Featured"; ObjectID = "OXt-GG-a47"; */
+"OXt-GG-a47.title" = "Featured";
+
+/* Class = "UITabBarItem"; title = "Konto"; ObjectID = "Pjy-xa-7Pn"; */
+"Pjy-xa-7Pn.title" = "Account";
+
+/* Class = "UITabBarItem"; title = "Featured"; ObjectID = "Q24-yO-i0r"; */
+"Q24-yO-i0r.title" = "Featured";
+
+/* Class = "UINavigationItem"; title = "Kurv"; ObjectID = "S5c-7T-4BR"; */
+"S5c-7T-4BR.title" = "Bag";
+
+/* Class = "UITabBarItem"; title = "Kurv"; ObjectID = "YSS-Ua-xna"; */
+"YSS-Ua-xna.title" = "Bag";
+
+/* Class = "UINavigationItem"; title = "Køb"; ObjectID = "acu-ca-wGt"; */
+"acu-ca-wGt.title" = "Store";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "eMv-eU-yRd"; */
+"eMv-eU-yRd.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "4.999 kr."; ObjectID = "ePk-SD-Y5w"; */
+"ePk-SD-Y5w.text" = "4.999 kr.";
+
+/* Class = "UILabel"; text = "Notes"; ObjectID = "gEr-OM-9Jh"; */
+"gEr-OM-9Jh.text" = "Notes";
+
+/* Class = "UILabel"; text = "Find a store"; ObjectID = "i5Y-gs-ShX"; */
+"i5Y-gs-ShX.text" = "Find a store";
+
+/* Class = "UITabBarItem"; title = "Store"; ObjectID = "sRi-zI-qzj"; */
+"sRi-zI-qzj.title" = "Store";
+
+/* Class = "UITabBarItem"; title = "Store"; ObjectID = "sw8-7V-IpP"; */
+"sw8-7V-IpP.title" = "Store";
+
+/* Class = "UILabel"; text = "Apple Watch"; ObjectID = "wow-lg-Ged"; */
+"wow-lg-Ged.text" = "Apple Watch";

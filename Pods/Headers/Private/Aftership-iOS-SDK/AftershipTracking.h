@@ -1,0 +1,1 @@
+../../../Aftership-iOS-SDK/Aftership-iOS-SDK/Classes/Models/AftershipTracking.h

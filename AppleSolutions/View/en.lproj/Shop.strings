@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "$99.99"; ObjectID = "14S-3T-BvJ"; */
+"14S-3T-BvJ.text" = "$99.99";
+
+/* Class = "UINavigationItem"; title = "Product"; ObjectID = "765-l9-5dm"; */
+"765-l9-5dm.title" = "Product";
+
+/* Class = "UILabel"; text = "64 GB"; ObjectID = "BPd-LC-naB"; */
+"BPd-LC-naB.text" = "64 GB";
+
+/* Class = "UILabel"; text = "6999.99"; ObjectID = "Mx9-l7-GRC"; */
+"Mx9-l7-GRC.text" = "6999.99";
+
+/* Class = "UILabel"; text = "$99.99"; ObjectID = "Xus-eI-QZG"; */
+"Xus-eI-QZG.text" = "$99.99";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "c62-L9-Ycv"; */
+"c62-L9-Ycv.title" = "Item";
+
+/* Class = "UILabel"; text = "Variants"; ObjectID = "fJp-Lv-lLE"; */
+"fJp-Lv-lLE.text" = "Variants";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g37-US-Vxn"; */
+"g37-US-Vxn.text" = "Label";
+
+/* Class = "UILabel"; text = "iPod touch 16 GB"; ObjectID = "gXZ-Ru-MuY"; */
+"gXZ-Ru-MuY.text" = "iPod touch 16 GB";
+
+/* Class = "UILabel"; text = "Shipping"; ObjectID = "kb3-cF-jjE"; */
+"kb3-cF-jjE.text" = "Shipping";
+
+/* Class = "UILabel"; text = "Delivery:"; ObjectID = "pHA-2j-z7e"; */
+"pHA-2j-z7e.text" = "Delivery:";

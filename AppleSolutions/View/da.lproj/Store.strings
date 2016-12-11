@@ -1,0 +1,38 @@
+
+/* Class = "UINavigationItem"; title = "Workshops and Events"; ObjectID = "1gF-k5-mZA"; */
+"1gF-k5-mZA.title" = "Workshops & Events";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "2Jn-VV-6ZP"; */
+"2Jn-VV-6ZP.text" = "Telefon";
+
+/* Class = "UILabel"; text = "AppleSolutions DK"; ObjectID = "7aT-mW-3Rv"; */
+"7aT-mW-3Rv.text" = "AppleSolutions Store - Åboulevard";
+
+/* Class = "UILabel"; text = "+45 89 88 50 52"; ObjectID = "IxN-V2-gTO"; */
+"IxN-V2-gTO.text" = "+45 89 88 50 52";
+
+/* Class = "UINavigationItem"; title = "AppleSolutions"; ObjectID = "L8g-Gl-auy"; */
+"L8g-Gl-auy.title" = "AppleSolutions - Åboulevard 60";
+
+/* Class = "UINavigationItem"; title = "Genius Bar"; ObjectID = "Nt6-lV-iHO"; */
+"Nt6-lV-iHO.title" = "Genius Bar";
+
+/* Class = "UILabel"; text = "Open & Close"; ObjectID = "Qdo-N6-Pkr"; */
+"Qdo-N6-Pkr.text" = "Åbningstider";
+
+/* Class = "UINavigationItem"; title = "One to One"; ObjectID = "e3U-3p-KPq"; */
+"e3U-3p-KPq.title" = "One to One";
+
+/* Class = "UILabel"; text = "Avoulevard, Copenhagen 2200"; ObjectID = "hTH-RB-Xdt"; */
+"hTH-RB-Xdt.text" = "Åboulevard 60, 2200 København";
+
+/* Class = "UINavigationItem"; title = "Find a store"; ObjectID = "kPS-nz-Eog"; */
+"kPS-nz-Eog.title" = "Find nærmeste butik";
+
+/* Class = "UILabel"; text = "10:00 AM - 9:00 PM"; ObjectID = "rEg-zm-k2Z"; */
+"rEg-zm-k2Z.text" = "11:00 - 17:00  Mandag - Torsdag
+11:00 - 14:30  Fredag
+12:00 - 16:00  Lørdag (Ulige uger)";
+
+/* Class = "UILabel"; text = "Map"; ObjectID = "seX-z3-30G"; */
+"seX-z3-30G.text" = "Kort";

@@ -1,0 +1,67 @@
+PODS:
+  - AFNetworking (2.6.2):
+    - AFNetworking/NSURLConnection (= 2.6.2)
+    - AFNetworking/NSURLSession (= 2.6.2)
+    - AFNetworking/Reachability (= 2.6.2)
+    - AFNetworking/Security (= 2.6.2)
+    - AFNetworking/Serialization (= 2.6.2)
+    - AFNetworking/UIKit (= 2.6.2)
+  - AFNetworking/NSURLConnection (2.6.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.2)
+  - AFNetworking/Security (2.6.2)
+  - AFNetworking/Serialization (2.6.2)
+  - AFNetworking/UIKit (2.6.2):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Aftership-iOS-SDK (1.1.9)
+  - BUYPaymentButton (1.0.4)
+  - EstimoteSDK (4.7.2)
+  - GoogleMaps (2.0.1):
+    - GoogleMaps/Maps (= 2.0.1)
+  - GoogleMaps/Base (2.0.1)
+  - GoogleMaps/Maps (2.0.1):
+    - GoogleMaps/Base (= 2.0.1)
+  - Intercom (3.0.7)
+  - IQKeyboardManager (4.0.4)
+  - MBProgressHUD (1.0.0)
+  - Mobile-Buy-SDK (2.0.0)
+  - MobilePay-AppSwitch-SDK (1.8.0)
+  - MTBBarcodeScanner (1.8.10)
+  - OneSignal (1.13.3)
+
+DEPENDENCIES:
+  - AFNetworking (= 2.6.2)
+  - Aftership-iOS-SDK (= 1.1.9)
+  - BUYPaymentButton
+  - EstimoteSDK
+  - GoogleMaps
+  - Intercom
+  - IQKeyboardManager
+  - MBProgressHUD
+  - Mobile-Buy-SDK
+  - MobilePay-AppSwitch-SDK
+  - MTBBarcodeScanner (= 1.8.10)
+  - OneSignal
+
+SPEC CHECKSUMS:
+  AFNetworking: 7f317038a9710cabfa43ec56396b307b45df72ab
+  Aftership-iOS-SDK: e71ae8953ae0a313e660c8a7bdcd94e407729efd
+  BUYPaymentButton: 45fa7fa4efc8b7d2121b6ea3f22d92fa9b70ea3a
+  EstimoteSDK: d57900b6b6f3a205cba0a17420e658eded62b105
+  GoogleMaps: f09da64fc987c1aa29394567c3cab5a3df83c402
+  Intercom: 5fe9efc7ec143a39557bc23147451cefca5a772a
+  IQKeyboardManager: 4a6f83b540283c2645aaeba2bd8dc0f09b5c77f8
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  Mobile-Buy-SDK: d34fe55aef5b3ee69b320d903d215bb73adce3d5
+  MobilePay-AppSwitch-SDK: 3c7d0bd3629b6ef5d6fd42be631836f8fbf1932a
+  MTBBarcodeScanner: 20bdb750b6f7ef34d7fdf6bf7831a69b45a3d08f
+  OneSignal: 434facae3389cb0d4d3fc57b9a6cf66db685205e
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="11542" systemVersion="16C41b" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="aJt-Fd-1NN">
+    <device id="watch38" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="watchOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="11508"/>
+    </dependencies>
+    <scenes>
+        <!--Apple Solutions-->
+        <scene sceneID="ugF-p4-14i">
+            <objects>
+                <controller title="Apple Solutions" id="aJt-Fd-1NN" customClass="HomeController">
+                    <items>
+                        <table alignment="left" id="c5o-DL-nlE">
+                            <items>
+                                <tableRow identifier="homeRowController" id="O1b-0u-ixf" customClass="HomeRowController">
+                                    <group key="rootItem" width="1" height="0.0" alignment="left" spacing="4" id="jfU-o8-9iI">
+                                        <items>
+                                            <imageView width="25" height="25" alignment="left" verticalAlignment="center" id="LGR-i7-1DH"/>
+                                            <label alignment="left" verticalAlignment="center" text="Label" numberOfLines="0" id="bUP-qW-1T8">
+                                                <fontDescription key="font" type="system" pointSize="16"/>
+                                            </label>
+                                        </items>
+                                    </group>
+                                    <connections>
+                                        <outlet property="imgRow" destination="LGR-i7-1DH" id="Q4h-Mh-FZo"/>
+                                        <outlet property="lblRow" destination="bUP-qW-1T8" id="GW8-xC-SPO"/>
+                                    </connections>
+                                </tableRow>
+                            </items>
+                        </table>
+                    </items>
+                    <connections>
+                        <outlet property="homeTable" destination="c5o-DL-nlE" id="uGJ-GS-Px8"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="230" y="315"/>
+        </scene>
+        <!--Nearest Store-->
+        <scene sceneID="zDb-Yj-Xss">
+            <objects>
+                <controller identifier="nearestStore" title="Nearest Store" hidesWhenLoading="NO" id="pGx-Ib-6d8">
+                    <items>
+                        <group width="1" height="6" alignment="left" id="RYE-GB-OB3"/>
+                        <group width="1" alignment="left" layout="vertical" spacing="2" id="9Sk-Z7-AEb">
+                            <items>
+                                <label alignment="left" text="Opening hours" minimumScaleFactor="0.0" id="RE8-EN-v0F">
+                                    <color key="textColor" red="0.23921568627450979" green="0.55686274509803924" blue="0.90588235294117647" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <fontDescription key="font" type="boldSystem" pointSize="14"/>
+                                </label>
+                                <label alignment="left" text="11:30 AM - 5 PM Mon - Thur" numberOfLines="2" id="5I7-ws-gtb">
+                                    <fontDescription key="font" type="system" pointSize="12"/>
+                                </label>
+                                <label alignment="left" text="11:30 AM - 14:30 PM Friday" numberOfLines="0" id="mIU-Wd-o6V">
+                                    <fontDescription key="font" type="system" pointSize="12"/>
+                                </label>
+                                <label alignment="left" text="12:00 PM - 4:00PM Sat (Odd weeks)" numberOfLines="2" id="wCF-U1-rOc">
+                                    <fontDescription key="font" type="system" pointSize="12"/>
+                                </label>
+                            </items>
+                            <variation key="device=watch42mm">
+                                <mask key="items">
+                                    <include reference="RE8-EN-v0F"/>
+                                    <include reference="5I7-ws-gtb"/>
+                                    <include reference="mIU-Wd-o6V"/>
+                                    <include reference="wCF-U1-rOc"/>
+                                </mask>
+                            </variation>
+                        </group>
+                        <group width="1" alignment="left" layout="vertical" spacing="2" id="nYa-aj-LG3">
+                            <items>
+                                <separator alignment="left" id="kLY-du-jTr">
+                                    <color key="color" red="0.29411764705882354" green="0.29411764705882354" blue="0.29411764705882354" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </separator>
+                                <label height="15" alignment="left" text="Map" id="Jw2-Y0-g7w">
+                                    <color key="textColor" red="0.23921568627450979" green="0.55686274509803924" blue="0.90588235294117647" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <fontDescription key="font" type="boldSystem" pointSize="14"/>
+                                </label>
+                                <label alignment="left" text="Åboulevard 60, 2200 Kabenhavn" numberOfLines="0" id="D55-XB-6oO">
+                                    <fontDescription key="font" type="system" pointSize="12"/>
+                                </label>
+                            </items>
+                        </group>
+                        <group width="1" height="2" alignment="left" id="CB0-TQ-fja"/>
+                        <group width="1" alignment="left" layout="vertical" spacing="2" id="QTe-lG-43c">
+                            <items>
+                                <separator height="100" alignment="left" id="O4y-od-ePH">
+                                    <color key="color" red="0.29411764705882354" green="0.29411764705882354" blue="0.29411764705882354" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </separator>
+                                <label alignment="left" text="Phone Number" id="GlT-yi-p7Z">
+                                    <color key="textColor" red="0.23921568627450979" green="0.55686274509803924" blue="0.90588235294117647" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <fontDescription key="font" type="boldSystem" pointSize="14"/>
+                                </label>
+                                <label alignment="left" text="+45 89 88 50 52" id="PNP-lW-hXN">
+                                    <fontDescription key="font" type="system" pointSize="12"/>
+                                </label>
+                            </items>
+                        </group>
+                    </items>
+                    <variation key="default">
+                        <mask key="items">
+                            <exclude reference="RYE-GB-OB3"/>
+                        </mask>
+                    </variation>
+                    <variation key="device=watch42mm">
+                        <mask key="items">
+                            <include reference="RYE-GB-OB3"/>
+                            <include reference="9Sk-Z7-AEb"/>
+                            <include reference="nYa-aj-LG3"/>
+                        </mask>
+                    </variation>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="453" y="345"/>
+        </scene>
+        <!--Workshops & Events-->
+        <scene sceneID="ehq-FC-aPD">
+            <objects>
+                <controller identifier="eventsScreen" title="Workshops &amp; Events" spacing="1" id="gIt-7G-H3R" customClass="EventsController">
+                    <items>
+                        <group width="1" height="7" alignment="left" id="Tpe-XM-U6C"/>
+                        <group width="1" alignment="left" layout="vertical" id="nGP-0O-Imd">
+                            <items>
+                                <table alignment="left" id="vU5-DZ-AQp">
+                                    <items>
+                                        <tableRow identifier="eventsRowController" id="9Jw-J2-iq3" customClass="EventsRowController">
+                                            <group key="rootItem" width="1" height="0.0" alignment="left" layout="vertical" spacing="0.0" id="Gub-ec-bRi">
+                                                <items>
+                                                    <label alignment="left" text="Event Title" numberOfLines="0" id="zmB-hS-Rpu">
+                                                        <color key="textColor" red="0.23921568627450979" green="0.55686274509803924" blue="0.90588235294117647" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <fontDescription key="font" type="boldSystem" pointSize="14"/>
+                                                    </label>
+                                                    <label alignment="left" text="10:00 AM - 5:00 PM" numberOfLines="0" id="3ds-8r-IxA">
+                                                        <fontDescription key="font" type="system" pointSize="12"/>
+                                                    </label>
+                                                    <label alignment="left" text="+Aboulevard 60, 2200 Kabenhavn" numberOfLines="0" id="ize-D0-Js8">
+                                                        <fontDescription key="font" type="system" pointSize="12"/>
+                                                    </label>
+                                                    <separator alignment="left" id="teP-dW-6Ro">
+                                                        <color key="color" red="0.022939387708902359" green="0.022939387708902359" blue="0.022939387708902359" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                    </separator>
+                                                </items>
+                                            </group>
+                                            <connections>
+                                                <outlet property="eventLocation" destination="ize-D0-Js8" id="Kge-gv-2Nf"/>
+                                                <outlet property="eventTime" destination="3ds-8r-IxA" id="0fm-TR-b67"/>
+                                                <outlet property="eventTitle" destination="zmB-hS-Rpu" id="uda-F9-hyj"/>
+                                            </connections>
+                                        </tableRow>
+                                    </items>
+                                </table>
+                            </items>
+                        </group>
+                    </items>
+                    <variation key="default">
+                        <mask key="items">
+                            <exclude reference="Tpe-XM-U6C"/>
+                        </mask>
+                    </variation>
+                    <variation key="device=watch42mm">
+                        <mask key="items">
+                            <include reference="Tpe-XM-U6C"/>
+                        </mask>
+                    </variation>
+                    <connections>
+                        <outlet property="eventsTable" destination="vU5-DZ-AQp" id="M7K-Sa-epo"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="673" y="320"/>
+        </scene>
+        <!--Static Notification Interface Controller-->
+        <scene sceneID="AEw-b0-oYE">
+            <objects>
+                <notificationController id="YCC-NB-fut">
+                    <items>
+                        <label alignment="left" text="Alert Label" id="IdU-wH-bcW"/>
+                    </items>
+                    <notificationCategory key="notificationCategory" identifier="myCategory" id="JfB-70-Muf"/>
+                    <connections>
+                        <outlet property="notificationAlertLabel" destination="IdU-wH-bcW" id="JKC-fr-R95"/>
+                        <segue destination="4sK-HA-Art" kind="relationship" relationship="dynamicNotificationInterface" id="kXh-Jw-8B1"/>
+                    </connections>
+                </notificationController>
+            </objects>
+            <point key="canvasLocation" x="220" y="643"/>
+        </scene>
+        <!--Notification Controller-->
+        <scene sceneID="ZPc-GJ-vnh">
+            <objects>
+                <controller id="4sK-HA-Art" customClass="NotificationController"/>
+            </objects>
+            <point key="canvasLocation" x="468" y="643"/>
+        </scene>
+    </scenes>
+</document>
